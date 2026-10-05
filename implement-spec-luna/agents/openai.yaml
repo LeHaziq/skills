@@ -1,0 +1,5 @@
+interface:
+  display_name: "Implement Spec with Luna"
+  short_description: "Build a spec with Luna and review with Sol"
+policy:
+  allow_implicit_invocation: false
